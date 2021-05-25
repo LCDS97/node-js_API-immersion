@@ -1,0 +1,25 @@
+{
+  "name": "node_api-immersion-ew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCDS97/node_api-immersion.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "js",
+    "javascript"
+  ],
+  "author": "Lucas Conceição dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LCDS97/node_api-immersion/issues"
+  },
+  "homepage": "https://github.com/LCDS97/node_api-immersion#readme"
+}
